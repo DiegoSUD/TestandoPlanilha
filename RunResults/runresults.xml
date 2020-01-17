@@ -1,0 +1,591 @@
+<Results>
+    <GeneralInfo>
+        <Name/>
+        <RunStartTime>2020-01-17 10:00:24</RunStartTime>
+        <Timezone>E. South America Standard Time</Timezone>
+        <OrchestrationToolName>JUnit</OrchestrationToolName>
+        <OrchestrationToolVersion/>
+        <ReportTitle>LeanFT Report</ReportTitle>
+    </GeneralInfo>
+    <ReportNode type="Run">
+        <Data>
+            <Name>Run Results</Name>
+            <Description><![CDATA[ ]]></Description>
+            <StartTime>2020-01-17 10:00:24</StartTime>
+            <Result>Passed</Result>
+            <Links/>
+            <Duration><![CDATA[00:00:07.810]]></Duration>
+            <Extension>
+                <Any>
+                    <IconKey>Run</IconKey>
+                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                </Any>
+            </Extension>
+            <Environment>
+                <OSInfo><![CDATA[Microsoft Windows NT 6.2.9200.0]]></OSInfo>
+                <HostName>VLDRAXYTCE</HostName>
+                <NumberOfCores>4</NumberOfCores>
+                <CpuInfo/>
+                <TotalMemory>8056</TotalMemory>
+                <Locale><![CDATA[pt-BR]]></Locale>
+                <Timezone><![CDATA[E. South America Standard Time]]></Timezone>
+                <User><![CDATA[SOE-Load]]></User>
+            </Environment>
+            <TestedApplication/>
+            <ToolName>LeanFT</ToolName>
+            <ToolVersion><![CDATA[14.53]]></ToolVersion>
+        </Data>
+        <ReportNode type="Package">
+            <Data>
+                <Name><![CDATA[br.com.vivo]]></Name>
+                <Description><![CDATA[Version: N/A]]></Description>
+                <StartTime>2020-01-17 10:00:25</StartTime>
+                <Result>Passed</Result>
+                <Links/>
+                <Duration><![CDATA[00:00:07.380]]></Duration>
+                <Extension>
+                    <Any>
+                        <IconKey>Package</IconKey>
+                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                    </Any>
+                </Extension>
+            </Data>
+            <ReportNode type="Class">
+                <Data>
+                    <Name><![CDATA[br.com.vivo.LeanFtTest]]></Name>
+                    <Description/>
+                    <StartTime>2020-01-17 10:00:25</StartTime>
+                    <Result>Passed</Result>
+                    <Links/>
+                    <Duration><![CDATA[00:00:07.379]]></Duration>
+                    <Extension>
+                        <Any>
+                            <IconKey>Class</IconKey>
+                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                        </Any>
+                    </Extension>
+                </Data>
+                <ReportNode type="Feature">
+                    <Data>
+                        <Name><![CDATA[<b>Funcionalidade: </b>Cadastrar massas apartir do site meu Vivo]]></Name>
+                        <Description/>
+                        <StartTime>2020-01-17 10:00:25</StartTime>
+                        <Result>Passed</Result>
+                        <Links/>
+                        <Duration><![CDATA[00:00:07.368]]></Duration>
+                        <Extension>
+                            <Any>
+                                <IconKey>Feature</IconKey>
+                                <IsHtmlErrorText>true</IsHtmlErrorText>
+                            </Any>
+                        </Extension>
+                    </Data>
+                    <ReportNode type="Scenario">
+                        <Data>
+                            <Name><![CDATA[<b>Cenario: </b>Cadastrar massa no meu vivo]]></Name>
+                            <Description><![CDATA[Dado  que estou na tela home do site meu vivo <br>Quando  clico no botao entrar <br>E  digito o cpf <br>E  preencho o cadastro <br>Entao  retorna a tela home <br>E  clico no botao sair <br>E  recarrega a pagina novamente <br>E  clico no botao entrar <br>E  digito o cpf <br>E  clico no botao ok alert <br>E  preenche os campos com pedencia <br>Entao  valido a tela cadastro com sucesso <br><br><br>]]></Description>
+                            <StartTime>2020-01-17 10:00:25</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Duration><![CDATA[00:00:07.360]]></Duration>
+                            <Extension>
+                                <Any>
+                                    <IconKey>Scenario</IconKey>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                </Any>
+                            </Extension>
+                        </Data>
+                        <ReportNode type="Step">
+                            <Data>
+                                <Name><![CDATA[Browser.launch]]></Name>
+                                <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>CHROME</td></tr></table><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><p><div class=data-label><hr><b>Browser Information</b></div> </p><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>type</td><td class='ex-value'>Chrome</td></tr><tr><td class='ex-name'>version</td><td class='ex-value'>79.0</td></tr><tr><td class='ex-name'>max concurrent tests</td><td class='ex-value'>9.007199254740991E15</td></tr><tr><td class='ex-name'>osVersion</td><td class='ex-value'>10</td></tr><tr><td class='ex-name'>osType</td><td class='ex-value'>Windows</td></tr><tr><td class='ex-name'>name</td><td class='ex-value'>VLDRAXYTCE</td></tr><tr><td class='ex-name'>id</td><td class='ex-value'>VLDRAXYTCE</td></tr></table>]]></Description>
+                                <StartTime>2020-01-17 10:00:25</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration><![CDATA[00:00:00.000]]></Duration>
+                                <Extension>
+                                    <Any>
+                                        <TestObject>
+                                            <Path/>
+                                            <Operation>launch</Operation>
+                                            <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>CHROME</td></tr></table><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><p><div class=data-label><hr><b>Browser Information</b></div> </p><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>type</td><td class='ex-value'>Chrome</td></tr><tr><td class='ex-name'>version</td><td class='ex-value'>79.0</td></tr><tr><td class='ex-name'>max concurrent tests</td><td class='ex-value'>9.007199254740991E15</td></tr><tr><td class='ex-name'>osVersion</td><td class='ex-value'>10</td></tr><tr><td class='ex-name'>osType</td><td class='ex-value'>Windows</td></tr><tr><td class='ex-name'>name</td><td class='ex-value'>VLDRAXYTCE</td></tr><tr><td class='ex-name'>id</td><td class='ex-value'>VLDRAXYTCE</td></tr></table>]]></OperationData>
+                                            <Properties/>
+                                        </TestObject>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                        <IconKey>Browser</IconKey>
+                                        <CustomUIElements>
+                                            <DescriptionLabel>Data</DescriptionLabel>
+                                            <FlowTreeNodeCaption><![CDATA[Browser.<span class='emphasis'>launch("Chrome")</span>]]></FlowTreeNodeCaption>
+                                            <FlowTreeNodeTooltip><![CDATA[Browser.launch("Chrome")]]></FlowTreeNodeTooltip>
+                                        </CustomUIElements>
+                                        <HideContextInfo>true</HideContextInfo>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                        </ReportNode>
+                        <ReportNode type="CucumberStep">
+                            <Data>
+                                <Name><![CDATA[<b>Dado </b>que estou na tela home do site meu vivo]]></Name>
+                                <Description/>
+                                <StartTime>2020-01-17 10:00:26</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration><![CDATA[00:00:03.665]]></Duration>
+                                <Extension>
+                                    <Any>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[about:blank.navigate]]></Name>
+                                    <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>https://hml-lojaonline.vivo.com.br/vivostorefront/?site=vivo</td></tr></table>]]></Description>
+                                    <StartTime>2020-01-17 10:00:26</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:00.064]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[about:blank]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>navigate</Operation>
+                                                <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>https://hml-lojaonline.vivo.com.br/vivostorefront/?site=vivo</td></tr></table>]]></OperationData>
+                                                <Properties>
+                                                    <Property>
+                                                        <Name><![CDATA[type]]></Name>
+                                                        <Value><![CDATA[Chrome]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[version]]></Name>
+                                                        <Value><![CDATA[79.0]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[max concurrent tests]]></Name>
+                                                        <Value><![CDATA[9.007199254740991E15]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[osVersion]]></Name>
+                                                        <Value><![CDATA[10]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[osType]]></Name>
+                                                        <Value><![CDATA[Windows]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[name]]></Name>
+                                                        <Value><![CDATA[VLDRAXYTCE]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[id]]></Name>
+                                                        <Value><![CDATA[VLDRAXYTCE]]></Value>
+                                                    </Property>
+                                                </Properties>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>Browser</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[about:blank]]></Name>
+                                                            <IconKey>Browser</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                        </ReportNode>
+                        <ReportNode type="CucumberStep">
+                            <Data>
+                                <Name><![CDATA[<b>Quando </b>clico no botao entrar]]></Name>
+                                <Description/>
+                                <StartTime>2020-01-17 10:00:30</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration><![CDATA[00:00:00.149]]></Duration>
+                                <Extension>
+                                    <Any>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[Entre.click]]></Name>
+                                    <Description/>
+                                    <StartTime>2020-01-17 10:00:30</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:00.123]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[Loja de Aparelhos e Planos | Celular, internet, 4G, TV e Muito Mais!]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.Page</Type>
+                                                        <Name><![CDATA[Loja de Aparelhos e Planos | Celular, internet, 4G, TV e Muito Mais!]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.WebElement</Type>
+                                                        <Name><![CDATA[Entre]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>click</Operation>
+                                                <OperationData/>
+                                                <Properties>
+                                                    <Property>
+                                                        <Name><![CDATA[cSSSelector]]></Name>
+                                                        <Value><![CDATA[a.login-btn[title='Entre']]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[isVisible]]></Name>
+                                                        <Value><![CDATA[true]]></Value>
+                                                    </Property>
+                                                </Properties>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>WebElement</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Loja de Aparelhos e Planos | Celular, internet, 4G, TV e Muito Mais!]]></Name>
+                                                            <IconKey>Browser</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Loja de Aparelhos e Planos | Celular, internet, 4G, TV e Muito Mais!]]></Name>
+                                                            <IconKey>Page</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.WebElement</Type>
+                                                            <Name><![CDATA[Entre]]></Name>
+                                                            <IconKey>WebElement</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                        </ReportNode>
+                        <ReportNode type="CucumberStep">
+                            <Data>
+                                <Name><![CDATA[<b>E </b>digito o cpf]]></Name>
+                                <Description/>
+                                <StartTime>2020-01-17 10:00:30</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration><![CDATA[00:00:00.000]]></Duration>
+                                <Extension>
+                                    <Any>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                        </ReportNode>
+                        <ReportNode type="CucumberStep">
+                            <Data>
+                                <Name><![CDATA[<b>E </b>preencho o cadastro]]></Name>
+                                <Description/>
+                                <StartTime>2020-01-17 10:00:30</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration><![CDATA[00:00:00.000]]></Duration>
+                                <Extension>
+                                    <Any>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                        </ReportNode>
+                        <ReportNode type="CucumberStep">
+                            <Data>
+                                <Name><![CDATA[<b>Entao </b>retorna a tela home]]></Name>
+                                <Description/>
+                                <StartTime>2020-01-17 10:00:30</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration><![CDATA[00:00:00.000]]></Duration>
+                                <Extension>
+                                    <Any>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                        </ReportNode>
+                        <ReportNode type="CucumberStep">
+                            <Data>
+                                <Name><![CDATA[<b>E </b>clico no botao sair]]></Name>
+                                <Description/>
+                                <StartTime>2020-01-17 10:00:30</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration><![CDATA[00:00:00.000]]></Duration>
+                                <Extension>
+                                    <Any>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                        </ReportNode>
+                        <ReportNode type="CucumberStep">
+                            <Data>
+                                <Name><![CDATA[<b>E </b>recarrega a pagina novamente]]></Name>
+                                <Description/>
+                                <StartTime>2020-01-17 10:00:30</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration><![CDATA[00:00:00.000]]></Duration>
+                                <Extension>
+                                    <Any>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                        </ReportNode>
+                        <ReportNode type="CucumberStep">
+                            <Data>
+                                <Name><![CDATA[<b>E </b>clico no botao entrar]]></Name>
+                                <Description/>
+                                <StartTime>2020-01-17 10:00:30</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration><![CDATA[00:00:00.090]]></Duration>
+                                <Extension>
+                                    <Any>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[Entre.click]]></Name>
+                                    <Description/>
+                                    <StartTime>2020-01-17 10:00:30</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:00.088]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[Loja de Aparelhos e Planos | Celular, internet, 4G, TV e Muito Mais!]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.Page</Type>
+                                                        <Name><![CDATA[Loja de Aparelhos e Planos | Celular, internet, 4G, TV e Muito Mais!]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.WebElement</Type>
+                                                        <Name><![CDATA[Entre]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>click</Operation>
+                                                <OperationData/>
+                                                <Properties>
+                                                    <Property>
+                                                        <Name><![CDATA[cSSSelector]]></Name>
+                                                        <Value><![CDATA[a.login-btn[title='Entre']]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[isVisible]]></Name>
+                                                        <Value><![CDATA[true]]></Value>
+                                                    </Property>
+                                                </Properties>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>WebElement</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Loja de Aparelhos e Planos | Celular, internet, 4G, TV e Muito Mais!]]></Name>
+                                                            <IconKey>Browser</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Loja de Aparelhos e Planos | Celular, internet, 4G, TV e Muito Mais!]]></Name>
+                                                            <IconKey>Page</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.WebElement</Type>
+                                                            <Name><![CDATA[Entre]]></Name>
+                                                            <IconKey>WebElement</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                        </ReportNode>
+                        <ReportNode type="CucumberStep">
+                            <Data>
+                                <Name><![CDATA[<b>E </b>digito o cpf]]></Name>
+                                <Description/>
+                                <StartTime>2020-01-17 10:00:30</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration><![CDATA[00:00:00.000]]></Duration>
+                                <Extension>
+                                    <Any>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                        </ReportNode>
+                        <ReportNode type="CucumberStep">
+                            <Data>
+                                <Name><![CDATA[<b>E </b>clico no botao ok alert]]></Name>
+                                <Description/>
+                                <StartTime>2020-01-17 10:00:30</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration><![CDATA[00:00:00.000]]></Duration>
+                                <Extension>
+                                    <Any>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                        </ReportNode>
+                        <ReportNode type="CucumberStep">
+                            <Data>
+                                <Name><![CDATA[<b>E </b>preenche os campos com pedencia]]></Name>
+                                <Description/>
+                                <StartTime>2020-01-17 10:00:30</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration><![CDATA[00:00:00.001]]></Duration>
+                                <Extension>
+                                    <Any>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                        </ReportNode>
+                        <ReportNode type="CucumberStep">
+                            <Data>
+                                <Name><![CDATA[<b>Entao </b>valido a tela cadastro com sucesso]]></Name>
+                                <Description/>
+                                <StartTime>2020-01-17 10:00:30</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration><![CDATA[00:00:00.000]]></Duration>
+                                <Extension>
+                                    <Any>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                        </ReportNode>
+                        <ReportNode type="Step">
+                            <Data>
+                                <Name><![CDATA[Login | Loja de Aparelhos e Planos.close]]></Name>
+                                <Description/>
+                                <StartTime>2020-01-17 10:00:30</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration><![CDATA[00:00:02.050]]></Duration>
+                                <Extension>
+                                    <Any>
+                                        <TestObject>
+                                            <Path>
+                                                <Object>
+                                                    <Type>Web.Browser</Type>
+                                                    <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                </Object>
+                                            </Path>
+                                            <Operation>close</Operation>
+                                            <OperationData/>
+                                            <Properties>
+                                                <Property>
+                                                    <Name><![CDATA[type]]></Name>
+                                                    <Value><![CDATA[Chrome]]></Value>
+                                                </Property>
+                                                <Property>
+                                                    <Name><![CDATA[version]]></Name>
+                                                    <Value><![CDATA[79.0]]></Value>
+                                                </Property>
+                                                <Property>
+                                                    <Name><![CDATA[max concurrent tests]]></Name>
+                                                    <Value><![CDATA[9.007199254740991E15]]></Value>
+                                                </Property>
+                                                <Property>
+                                                    <Name><![CDATA[osVersion]]></Name>
+                                                    <Value><![CDATA[10]]></Value>
+                                                </Property>
+                                                <Property>
+                                                    <Name><![CDATA[osType]]></Name>
+                                                    <Value><![CDATA[Windows]]></Value>
+                                                </Property>
+                                                <Property>
+                                                    <Name><![CDATA[name]]></Name>
+                                                    <Value><![CDATA[VLDRAXYTCE]]></Value>
+                                                </Property>
+                                                <Property>
+                                                    <Name><![CDATA[id]]></Name>
+                                                    <Value><![CDATA[VLDRAXYTCE]]></Value>
+                                                </Property>
+                                            </Properties>
+                                        </TestObject>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                        <IconKey>Browser</IconKey>
+                                        <CustomUIElements>
+                                            <DescriptionLabel>Data</DescriptionLabel>
+                                        </CustomUIElements>
+                                        <Descriptive>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                        <IconKey>Browser</IconKey>
+                                                    </Object>
+                                                </Path>
+                                            </TestObject>
+                                        </Descriptive>
+                                        <HideContextInfo>true</HideContextInfo>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                        </ReportNode>
+                    </ReportNode>
+                </ReportNode>
+            </ReportNode>
+        </ReportNode>
+    </ReportNode>
+</Results>
