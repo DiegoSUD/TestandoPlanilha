@@ -1,7 +1,7 @@
 <Results>
     <GeneralInfo>
         <Name/>
-        <RunStartTime>2020-01-17 10:00:24</RunStartTime>
+        <RunStartTime>2020-01-21 17:45:55</RunStartTime>
         <Timezone>E. South America Standard Time</Timezone>
         <OrchestrationToolName>JUnit</OrchestrationToolName>
         <OrchestrationToolVersion/>
@@ -11,10 +11,10 @@
         <Data>
             <Name>Run Results</Name>
             <Description><![CDATA[ ]]></Description>
-            <StartTime>2020-01-17 10:00:24</StartTime>
-            <Result>Passed</Result>
+            <StartTime>2020-01-21 17:45:55</StartTime>
+            <Result>Failed</Result>
             <Links/>
-            <Duration><![CDATA[00:00:07.810]]></Duration>
+            <Duration><![CDATA[00:01:26.036]]></Duration>
             <Extension>
                 <Any>
                     <IconKey>Run</IconKey>
@@ -39,10 +39,10 @@
             <Data>
                 <Name><![CDATA[br.com.vivo]]></Name>
                 <Description><![CDATA[Version: N/A]]></Description>
-                <StartTime>2020-01-17 10:00:25</StartTime>
-                <Result>Passed</Result>
+                <StartTime>2020-01-21 17:45:56</StartTime>
+                <Result>Failed</Result>
                 <Links/>
-                <Duration><![CDATA[00:00:07.380]]></Duration>
+                <Duration><![CDATA[00:01:25.588]]></Duration>
                 <Extension>
                     <Any>
                         <IconKey>Package</IconKey>
@@ -54,10 +54,10 @@
                 <Data>
                     <Name><![CDATA[br.com.vivo.LeanFtTest]]></Name>
                     <Description/>
-                    <StartTime>2020-01-17 10:00:25</StartTime>
-                    <Result>Passed</Result>
+                    <StartTime>2020-01-21 17:45:56</StartTime>
+                    <Result>Failed</Result>
                     <Links/>
-                    <Duration><![CDATA[00:00:07.379]]></Duration>
+                    <Duration><![CDATA[00:01:25.587]]></Duration>
                     <Extension>
                         <Any>
                             <IconKey>Class</IconKey>
@@ -69,10 +69,10 @@
                     <Data>
                         <Name><![CDATA[<b>Funcionalidade: </b>Cadastrar massas apartir do site meu Vivo]]></Name>
                         <Description/>
-                        <StartTime>2020-01-17 10:00:25</StartTime>
-                        <Result>Passed</Result>
+                        <StartTime>2020-01-21 17:45:56</StartTime>
+                        <Result>Failed</Result>
                         <Links/>
-                        <Duration><![CDATA[00:00:07.368]]></Duration>
+                        <Duration><![CDATA[00:01:25.577]]></Duration>
                         <Extension>
                             <Any>
                                 <IconKey>Feature</IconKey>
@@ -83,11 +83,11 @@
                     <ReportNode type="Scenario">
                         <Data>
                             <Name><![CDATA[<b>Cenario: </b>Cadastrar massa no meu vivo]]></Name>
-                            <Description><![CDATA[Dado  que estou na tela home do site meu vivo <br>Quando  clico no botao entrar <br>E  digito o cpf <br>E  preencho o cadastro <br>Entao  retorna a tela home <br>E  clico no botao sair <br>E  recarrega a pagina novamente <br>E  clico no botao entrar <br>E  digito o cpf <br>E  clico no botao ok alert <br>E  preenche os campos com pedencia <br>Entao  valido a tela cadastro com sucesso <br><br><br>]]></Description>
-                            <StartTime>2020-01-17 10:00:25</StartTime>
-                            <Result>Passed</Result>
+                            <Description><![CDATA[Dado  que estou na tela home do site meu vivo <br>E  clico no botao entrar <br>E  digito o cpf <br>E  digito a senha <br>E  preenche os campos com pedencia <br>Entao  valido a tela cadastro com sucesso <br><br><br>]]></Description>
+                            <StartTime>2020-01-21 17:45:56</StartTime>
+                            <Result>Failed</Result>
                             <Links/>
-                            <Duration><![CDATA[00:00:07.360]]></Duration>
+                            <Duration><![CDATA[00:01:25.569]]></Duration>
                             <Extension>
                                 <Any>
                                     <IconKey>Scenario</IconKey>
@@ -99,7 +99,7 @@
                             <Data>
                                 <Name><![CDATA[Browser.launch]]></Name>
                                 <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>CHROME</td></tr></table><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><p><div class=data-label><hr><b>Browser Information</b></div> </p><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>type</td><td class='ex-value'>Chrome</td></tr><tr><td class='ex-name'>version</td><td class='ex-value'>79.0</td></tr><tr><td class='ex-name'>max concurrent tests</td><td class='ex-value'>9.007199254740991E15</td></tr><tr><td class='ex-name'>osVersion</td><td class='ex-value'>10</td></tr><tr><td class='ex-name'>osType</td><td class='ex-value'>Windows</td></tr><tr><td class='ex-name'>name</td><td class='ex-value'>VLDRAXYTCE</td></tr><tr><td class='ex-name'>id</td><td class='ex-value'>VLDRAXYTCE</td></tr></table>]]></Description>
-                                <StartTime>2020-01-17 10:00:25</StartTime>
+                                <StartTime>2020-01-21 17:45:56</StartTime>
                                 <Result>Passed</Result>
                                 <Links/>
                                 <Duration><![CDATA[00:00:00.000]]></Duration>
@@ -127,10 +127,10 @@
                             <Data>
                                 <Name><![CDATA[<b>Dado </b>que estou na tela home do site meu vivo]]></Name>
                                 <Description/>
-                                <StartTime>2020-01-17 10:00:26</StartTime>
+                                <StartTime>2020-01-21 17:45:57</StartTime>
                                 <Result>Passed</Result>
                                 <Links/>
-                                <Duration><![CDATA[00:00:03.665]]></Duration>
+                                <Duration><![CDATA[00:00:06.148]]></Duration>
                                 <Extension>
                                     <Any>
                                         <IsHtmlErrorText>true</IsHtmlErrorText>
@@ -141,10 +141,10 @@
                                 <Data>
                                     <Name><![CDATA[about:blank.navigate]]></Name>
                                     <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>https://hml-lojaonline.vivo.com.br/vivostorefront/?site=vivo</td></tr></table>]]></Description>
-                                    <StartTime>2020-01-17 10:00:26</StartTime>
+                                    <StartTime>2020-01-21 17:45:57</StartTime>
                                     <Result>Passed</Result>
                                     <Links/>
-                                    <Duration><![CDATA[00:00:00.064]]></Duration>
+                                    <Duration><![CDATA[00:00:00.051]]></Duration>
                                     <Extension>
                                         <Any>
                                             <TestObject>
@@ -211,171 +211,12 @@
                         </ReportNode>
                         <ReportNode type="CucumberStep">
                             <Data>
-                                <Name><![CDATA[<b>Quando </b>clico no botao entrar]]></Name>
-                                <Description/>
-                                <StartTime>2020-01-17 10:00:30</StartTime>
-                                <Result>Passed</Result>
-                                <Links/>
-                                <Duration><![CDATA[00:00:00.149]]></Duration>
-                                <Extension>
-                                    <Any>
-                                        <IsHtmlErrorText>true</IsHtmlErrorText>
-                                    </Any>
-                                </Extension>
-                            </Data>
-                            <ReportNode type="Step">
-                                <Data>
-                                    <Name><![CDATA[Entre.click]]></Name>
-                                    <Description/>
-                                    <StartTime>2020-01-17 10:00:30</StartTime>
-                                    <Result>Passed</Result>
-                                    <Links/>
-                                    <Duration><![CDATA[00:00:00.123]]></Duration>
-                                    <Extension>
-                                        <Any>
-                                            <TestObject>
-                                                <Path>
-                                                    <Object>
-                                                        <Type>Web.Browser</Type>
-                                                        <Name><![CDATA[Loja de Aparelhos e Planos | Celular, internet, 4G, TV e Muito Mais!]]></Name>
-                                                    </Object>
-                                                    <Object>
-                                                        <Type>Web.Page</Type>
-                                                        <Name><![CDATA[Loja de Aparelhos e Planos | Celular, internet, 4G, TV e Muito Mais!]]></Name>
-                                                    </Object>
-                                                    <Object>
-                                                        <Type>Web.WebElement</Type>
-                                                        <Name><![CDATA[Entre]]></Name>
-                                                    </Object>
-                                                </Path>
-                                                <Operation>click</Operation>
-                                                <OperationData/>
-                                                <Properties>
-                                                    <Property>
-                                                        <Name><![CDATA[cSSSelector]]></Name>
-                                                        <Value><![CDATA[a.login-btn[title='Entre']]]></Value>
-                                                    </Property>
-                                                    <Property>
-                                                        <Name><![CDATA[isVisible]]></Name>
-                                                        <Value><![CDATA[true]]></Value>
-                                                    </Property>
-                                                </Properties>
-                                            </TestObject>
-                                            <IsHtmlErrorText>true</IsHtmlErrorText>
-                                            <IconKey>WebElement</IconKey>
-                                            <CustomUIElements>
-                                                <DescriptionLabel>Data</DescriptionLabel>
-                                            </CustomUIElements>
-                                            <Descriptive>
-                                                <TestObject>
-                                                    <Path>
-                                                        <Object>
-                                                            <Type>Web.Browser</Type>
-                                                            <Name><![CDATA[Loja de Aparelhos e Planos | Celular, internet, 4G, TV e Muito Mais!]]></Name>
-                                                            <IconKey>Browser</IconKey>
-                                                        </Object>
-                                                        <Object>
-                                                            <Type>Web.Page</Type>
-                                                            <Name><![CDATA[Loja de Aparelhos e Planos | Celular, internet, 4G, TV e Muito Mais!]]></Name>
-                                                            <IconKey>Page</IconKey>
-                                                        </Object>
-                                                        <Object>
-                                                            <Type>Web.WebElement</Type>
-                                                            <Name><![CDATA[Entre]]></Name>
-                                                            <IconKey>WebElement</IconKey>
-                                                        </Object>
-                                                    </Path>
-                                                </TestObject>
-                                            </Descriptive>
-                                            <HideContextInfo>true</HideContextInfo>
-                                        </Any>
-                                    </Extension>
-                                </Data>
-                            </ReportNode>
-                        </ReportNode>
-                        <ReportNode type="CucumberStep">
-                            <Data>
-                                <Name><![CDATA[<b>E </b>digito o cpf]]></Name>
-                                <Description/>
-                                <StartTime>2020-01-17 10:00:30</StartTime>
-                                <Result>Passed</Result>
-                                <Links/>
-                                <Duration><![CDATA[00:00:00.000]]></Duration>
-                                <Extension>
-                                    <Any>
-                                        <IsHtmlErrorText>true</IsHtmlErrorText>
-                                    </Any>
-                                </Extension>
-                            </Data>
-                        </ReportNode>
-                        <ReportNode type="CucumberStep">
-                            <Data>
-                                <Name><![CDATA[<b>E </b>preencho o cadastro]]></Name>
-                                <Description/>
-                                <StartTime>2020-01-17 10:00:30</StartTime>
-                                <Result>Passed</Result>
-                                <Links/>
-                                <Duration><![CDATA[00:00:00.000]]></Duration>
-                                <Extension>
-                                    <Any>
-                                        <IsHtmlErrorText>true</IsHtmlErrorText>
-                                    </Any>
-                                </Extension>
-                            </Data>
-                        </ReportNode>
-                        <ReportNode type="CucumberStep">
-                            <Data>
-                                <Name><![CDATA[<b>Entao </b>retorna a tela home]]></Name>
-                                <Description/>
-                                <StartTime>2020-01-17 10:00:30</StartTime>
-                                <Result>Passed</Result>
-                                <Links/>
-                                <Duration><![CDATA[00:00:00.000]]></Duration>
-                                <Extension>
-                                    <Any>
-                                        <IsHtmlErrorText>true</IsHtmlErrorText>
-                                    </Any>
-                                </Extension>
-                            </Data>
-                        </ReportNode>
-                        <ReportNode type="CucumberStep">
-                            <Data>
-                                <Name><![CDATA[<b>E </b>clico no botao sair]]></Name>
-                                <Description/>
-                                <StartTime>2020-01-17 10:00:30</StartTime>
-                                <Result>Passed</Result>
-                                <Links/>
-                                <Duration><![CDATA[00:00:00.000]]></Duration>
-                                <Extension>
-                                    <Any>
-                                        <IsHtmlErrorText>true</IsHtmlErrorText>
-                                    </Any>
-                                </Extension>
-                            </Data>
-                        </ReportNode>
-                        <ReportNode type="CucumberStep">
-                            <Data>
-                                <Name><![CDATA[<b>E </b>recarrega a pagina novamente]]></Name>
-                                <Description/>
-                                <StartTime>2020-01-17 10:00:30</StartTime>
-                                <Result>Passed</Result>
-                                <Links/>
-                                <Duration><![CDATA[00:00:00.000]]></Duration>
-                                <Extension>
-                                    <Any>
-                                        <IsHtmlErrorText>true</IsHtmlErrorText>
-                                    </Any>
-                                </Extension>
-                            </Data>
-                        </ReportNode>
-                        <ReportNode type="CucumberStep">
-                            <Data>
                                 <Name><![CDATA[<b>E </b>clico no botao entrar]]></Name>
                                 <Description/>
-                                <StartTime>2020-01-17 10:00:30</StartTime>
+                                <StartTime>2020-01-21 17:46:03</StartTime>
                                 <Result>Passed</Result>
                                 <Links/>
-                                <Duration><![CDATA[00:00:00.090]]></Duration>
+                                <Duration><![CDATA[00:00:00.087]]></Duration>
                                 <Extension>
                                     <Any>
                                         <IsHtmlErrorText>true</IsHtmlErrorText>
@@ -386,10 +227,10 @@
                                 <Data>
                                     <Name><![CDATA[Entre.click]]></Name>
                                     <Description/>
-                                    <StartTime>2020-01-17 10:00:30</StartTime>
+                                    <StartTime>2020-01-21 17:46:03</StartTime>
                                     <Result>Passed</Result>
                                     <Links/>
-                                    <Duration><![CDATA[00:00:00.088]]></Duration>
+                                    <Duration><![CDATA[00:00:00.071]]></Duration>
                                     <Extension>
                                         <Any>
                                             <TestObject>
@@ -456,77 +297,1622 @@
                             <Data>
                                 <Name><![CDATA[<b>E </b>digito o cpf]]></Name>
                                 <Description/>
-                                <StartTime>2020-01-17 10:00:30</StartTime>
+                                <StartTime>2020-01-21 17:46:03</StartTime>
                                 <Result>Passed</Result>
                                 <Links/>
-                                <Duration><![CDATA[00:00:00.000]]></Duration>
+                                <Duration><![CDATA[00:00:04.099]]></Duration>
                                 <Extension>
                                     <Any>
                                         <IsHtmlErrorText>true</IsHtmlErrorText>
                                     </Any>
                                 </Extension>
                             </Data>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[j_username.click]]></Name>
+                                    <Description/>
+                                    <StartTime>2020-01-21 17:46:03</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:02.024]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[Loja de Aparelhos e Planos | Celular, internet, 4G, TV e Muito Mais!]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.Page</Type>
+                                                        <Name><![CDATA[Loja de Aparelhos e Planos | Celular, internet, 4G, TV e Muito Mais!]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.EditField</Type>
+                                                        <Name><![CDATA[j_username]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>click</Operation>
+                                                <OperationData/>
+                                                <Properties>
+                                                    <Property>
+                                                        <Name><![CDATA[id]]></Name>
+                                                        <Value><![CDATA[j_username]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[isVisible]]></Name>
+                                                        <Value><![CDATA[true]]></Value>
+                                                    </Property>
+                                                </Properties>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>EditField</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Loja de Aparelhos e Planos | Celular, internet, 4G, TV e Muito Mais!]]></Name>
+                                                            <IconKey>Browser</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Loja de Aparelhos e Planos | Celular, internet, 4G, TV e Muito Mais!]]></Name>
+                                                            <IconKey>Page</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.EditField</Type>
+                                                            <Name><![CDATA[j_username]]></Name>
+                                                            <IconKey>EditField</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[j_username.setValue]]></Name>
+                                    <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>53082151540</td></tr></table>]]></Description>
+                                    <StartTime>2020-01-21 17:46:07</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:00.696]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.Page</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.EditField</Type>
+                                                        <Name><![CDATA[j_username]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>setValue</Operation>
+                                                <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>53082151540</td></tr></table>]]></OperationData>
+                                                <Properties>
+                                                    <Property>
+                                                        <Name><![CDATA[id]]></Name>
+                                                        <Value><![CDATA[j_username]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[isVisible]]></Name>
+                                                        <Value><![CDATA[true]]></Value>
+                                                    </Property>
+                                                </Properties>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>EditField</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Browser</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Page</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.EditField</Type>
+                                                            <Name><![CDATA[j_username]]></Name>
+                                                            <IconKey>EditField</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[Continuar.click]]></Name>
+                                    <Description/>
+                                    <StartTime>2020-01-21 17:46:07</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:00.042]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.Page</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.WebElement</Type>
+                                                        <Name><![CDATA[Continuar]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>click</Operation>
+                                                <OperationData/>
+                                                <Properties>
+                                                    <Property>
+                                                        <Name><![CDATA[cSSSelector]]></Name>
+                                                        <Value><![CDATA[button[title='Continuar']]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[isVisible]]></Name>
+                                                        <Value><![CDATA[true]]></Value>
+                                                    </Property>
+                                                </Properties>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>WebElement</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Browser</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Page</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.WebElement</Type>
+                                                            <Name><![CDATA[Continuar]]></Name>
+                                                            <IconKey>WebElement</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
                         </ReportNode>
                         <ReportNode type="CucumberStep">
                             <Data>
-                                <Name><![CDATA[<b>E </b>clico no botao ok alert]]></Name>
+                                <Name><![CDATA[<b>E </b>digito a senha]]></Name>
                                 <Description/>
-                                <StartTime>2020-01-17 10:00:30</StartTime>
+                                <StartTime>2020-01-21 17:46:07</StartTime>
                                 <Result>Passed</Result>
                                 <Links/>
-                                <Duration><![CDATA[00:00:00.000]]></Duration>
+                                <Duration><![CDATA[00:00:05.087]]></Duration>
                                 <Extension>
                                     <Any>
                                         <IsHtmlErrorText>true</IsHtmlErrorText>
                                     </Any>
                                 </Extension>
                             </Data>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[j_password.click]]></Name>
+                                    <Description/>
+                                    <StartTime>2020-01-21 17:46:11</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:00.684]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.Page</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.EditField</Type>
+                                                        <Name><![CDATA[j_password]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>click</Operation>
+                                                <OperationData/>
+                                                <Properties>
+                                                    <Property>
+                                                        <Name><![CDATA[id]]></Name>
+                                                        <Value><![CDATA[j_password]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[isVisible]]></Name>
+                                                        <Value><![CDATA[true]]></Value>
+                                                    </Property>
+                                                </Properties>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>EditField</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Browser</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Page</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.EditField</Type>
+                                                            <Name><![CDATA[j_password]]></Name>
+                                                            <IconKey>EditField</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[j_password.click]]></Name>
+                                    <Description/>
+                                    <StartTime>2020-01-21 17:46:12</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:00.115]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.Page</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.EditField</Type>
+                                                        <Name><![CDATA[j_password]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>click</Operation>
+                                                <OperationData/>
+                                                <Properties>
+                                                    <Property>
+                                                        <Name><![CDATA[id]]></Name>
+                                                        <Value><![CDATA[j_password]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[isVisible]]></Name>
+                                                        <Value><![CDATA[true]]></Value>
+                                                    </Property>
+                                                </Properties>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>EditField</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Browser</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Page</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.EditField</Type>
+                                                            <Name><![CDATA[j_password]]></Name>
+                                                            <IconKey>EditField</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[j_password.setValue]]></Name>
+                                    <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>112233</td></tr></table>]]></Description>
+                                    <StartTime>2020-01-21 17:46:12</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:00.095]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.Page</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.EditField</Type>
+                                                        <Name><![CDATA[j_password]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>setValue</Operation>
+                                                <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>112233</td></tr></table>]]></OperationData>
+                                                <Properties>
+                                                    <Property>
+                                                        <Name><![CDATA[id]]></Name>
+                                                        <Value><![CDATA[j_password]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[isVisible]]></Name>
+                                                        <Value><![CDATA[true]]></Value>
+                                                    </Property>
+                                                </Properties>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>EditField</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Browser</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Page</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.EditField</Type>
+                                                            <Name><![CDATA[j_password]]></Name>
+                                                            <IconKey>EditField</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[Entrar.click]]></Name>
+                                    <Description/>
+                                    <StartTime>2020-01-21 17:46:12</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:00.032]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.Page</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.WebElement</Type>
+                                                        <Name><![CDATA[Entrar]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>click</Operation>
+                                                <OperationData/>
+                                                <Properties>
+                                                    <Property>
+                                                        <Name><![CDATA[cSSSelector]]></Name>
+                                                        <Value><![CDATA[button[title='Entrar']]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[isVisible]]></Name>
+                                                        <Value><![CDATA[true]]></Value>
+                                                    </Property>
+                                                </Properties>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>WebElement</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Browser</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Page</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.WebElement</Type>
+                                                            <Name><![CDATA[Entrar]]></Name>
+                                                            <IconKey>WebElement</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
                         </ReportNode>
                         <ReportNode type="CucumberStep">
                             <Data>
                                 <Name><![CDATA[<b>E </b>preenche os campos com pedencia]]></Name>
                                 <Description/>
-                                <StartTime>2020-01-17 10:00:30</StartTime>
+                                <StartTime>2020-01-21 17:46:12</StartTime>
                                 <Result>Passed</Result>
                                 <Links/>
-                                <Duration><![CDATA[00:00:00.001]]></Duration>
+                                <Duration><![CDATA[00:00:40.456]]></Duration>
                                 <Extension>
                                     <Any>
                                         <IsHtmlErrorText>true</IsHtmlErrorText>
                                     </Any>
                                 </Extension>
                             </Data>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[OK.click]]></Name>
+                                    <Description/>
+                                    <StartTime>2020-01-21 17:46:43</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:00.057]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[Loja de Aparelhos e Planos | Celular, internet, 4G, TV e Muito Mais!]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.Page</Type>
+                                                        <Name><![CDATA[Loja de Aparelhos e Planos | Celular, internet, 4G, TV e Muito Mais!]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.WebElement</Type>
+                                                        <Name><![CDATA[OK]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>click</Operation>
+                                                <OperationData/>
+                                                <Properties>
+                                                    <Property>
+                                                        <Name><![CDATA[cSSSelector]]></Name>
+                                                        <Value><![CDATA[button#okerrordialogone]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[isVisible]]></Name>
+                                                        <Value><![CDATA[true]]></Value>
+                                                    </Property>
+                                                </Properties>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>WebElement</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Loja de Aparelhos e Planos | Celular, internet, 4G, TV e Muito Mais!]]></Name>
+                                                            <IconKey>Browser</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Loja de Aparelhos e Planos | Celular, internet, 4G, TV e Muito Mais!]]></Name>
+                                                            <IconKey>Page</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.WebElement</Type>
+                                                            <Name><![CDATA[OK]]></Name>
+                                                            <IconKey>WebElement</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[rg.click]]></Name>
+                                    <Description/>
+                                    <StartTime>2020-01-21 17:46:47</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:00.091]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.Page</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.EditField</Type>
+                                                        <Name><![CDATA[rg]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>click</Operation>
+                                                <OperationData/>
+                                                <Properties>
+                                                    <Property>
+                                                        <Name><![CDATA[id]]></Name>
+                                                        <Value><![CDATA[rg]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[isVisible]]></Name>
+                                                        <Value><![CDATA[true]]></Value>
+                                                    </Property>
+                                                </Properties>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>EditField</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Browser</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Page</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.EditField</Type>
+                                                            <Name><![CDATA[rg]]></Name>
+                                                            <IconKey>EditField</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[rg.setValue]]></Name>
+                                    <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>16627654</td></tr></table>]]></Description>
+                                    <StartTime>2020-01-21 17:46:47</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:00.130]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.Page</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.EditField</Type>
+                                                        <Name><![CDATA[rg]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>setValue</Operation>
+                                                <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>16627654</td></tr></table>]]></OperationData>
+                                                <Properties>
+                                                    <Property>
+                                                        <Name><![CDATA[id]]></Name>
+                                                        <Value><![CDATA[rg]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[isVisible]]></Name>
+                                                        <Value><![CDATA[true]]></Value>
+                                                    </Property>
+                                                </Properties>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>EditField</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Browser</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Page</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.EditField</Type>
+                                                            <Name><![CDATA[rg]]></Name>
+                                                            <IconKey>EditField</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[emittingAgency.click]]></Name>
+                                    <Description/>
+                                    <StartTime>2020-01-21 17:46:48</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:00.106]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.Page</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.EditField</Type>
+                                                        <Name><![CDATA[emittingAgency]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>click</Operation>
+                                                <OperationData/>
+                                                <Properties>
+                                                    <Property>
+                                                        <Name><![CDATA[id]]></Name>
+                                                        <Value><![CDATA[issuingbody]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[isVisible]]></Name>
+                                                        <Value><![CDATA[true]]></Value>
+                                                    </Property>
+                                                </Properties>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>EditField</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Browser</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Page</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.EditField</Type>
+                                                            <Name><![CDATA[emittingAgency]]></Name>
+                                                            <IconKey>EditField</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[emittingAgency.setValue]]></Name>
+                                    <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>ssp</td></tr></table>]]></Description>
+                                    <StartTime>2020-01-21 17:46:48</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:00.131]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.Page</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.EditField</Type>
+                                                        <Name><![CDATA[emittingAgency]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>setValue</Operation>
+                                                <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>ssp</td></tr></table>]]></OperationData>
+                                                <Properties>
+                                                    <Property>
+                                                        <Name><![CDATA[id]]></Name>
+                                                        <Value><![CDATA[issuingbody]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[isVisible]]></Name>
+                                                        <Value><![CDATA[true]]></Value>
+                                                    </Property>
+                                                </Properties>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>EditField</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Browser</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Page</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.EditField</Type>
+                                                            <Name><![CDATA[emittingAgency]]></Name>
+                                                            <IconKey>EditField</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[ .click]]></Name>
+                                    <Description/>
+                                    <StartTime>2020-01-21 17:46:48</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:00.035]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.Page</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.WebElement</Type>
+                                                        <Name><![CDATA[ ]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>click</Operation>
+                                                <OperationData/>
+                                                <Properties>
+                                                    <Property>
+                                                        <Name><![CDATA[cSSSelector]]></Name>
+                                                        <Value><![CDATA[button[data-id='issuingorgan']]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[isVisible]]></Name>
+                                                        <Value><![CDATA[true]]></Value>
+                                                    </Property>
+                                                </Properties>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>WebElement</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Browser</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Page</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.WebElement</Type>
+                                                            <Name><![CDATA[ ]]></Name>
+                                                            <IconKey>WebElement</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[AM.click]]></Name>
+                                    <Description/>
+                                    <StartTime>2020-01-21 17:46:48</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:00.027]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.WebElement</Type>
+                                                        <Name><![CDATA[AM]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>click</Operation>
+                                                <OperationData/>
+                                                <Properties/>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>WebElement</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.WebElement</Type>
+                                                            <Name><![CDATA[AM]]></Name>
+                                                            <IconKey>WebElement</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[ .click]]></Name>
+                                    <Description/>
+                                    <StartTime>2020-01-21 17:46:48</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:00.058]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.Page</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.WebElement</Type>
+                                                        <Name><![CDATA[ ]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>click</Operation>
+                                                <OperationData/>
+                                                <Properties>
+                                                    <Property>
+                                                        <Name><![CDATA[cSSSelector]]></Name>
+                                                        <Value><![CDATA[button[data-id='sex']]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[isVisible]]></Name>
+                                                        <Value><![CDATA[true]]></Value>
+                                                    </Property>
+                                                </Properties>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>WebElement</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Browser</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Page</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.WebElement</Type>
+                                                            <Name><![CDATA[ ]]></Name>
+                                                            <IconKey>WebElement</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[FEMININO.click]]></Name>
+                                    <Description/>
+                                    <StartTime>2020-01-21 17:46:48</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:00.065]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.Page</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.WebElement</Type>
+                                                        <Name><![CDATA[FEMININO]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>click</Operation>
+                                                <OperationData/>
+                                                <Properties>
+                                                    <Property>
+                                                        <Name><![CDATA[tagName]]></Name>
+                                                        <Value><![CDATA[SPAN]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[innerText]]></Name>
+                                                        <Value><![CDATA[FEMININO]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[isVisible]]></Name>
+                                                        <Value><![CDATA[true]]></Value>
+                                                    </Property>
+                                                </Properties>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>WebElement</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Browser</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Page</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.WebElement</Type>
+                                                            <Name><![CDATA[FEMININO]]></Name>
+                                                            <IconKey>WebElement</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[mothersName.click]]></Name>
+                                    <Description/>
+                                    <StartTime>2020-01-21 17:46:48</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:00.111]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.Page</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.EditField</Type>
+                                                        <Name><![CDATA[mothersName]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>click</Operation>
+                                                <OperationData/>
+                                                <Properties>
+                                                    <Property>
+                                                        <Name><![CDATA[id]]></Name>
+                                                        <Value><![CDATA[mothersname]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[isVisible]]></Name>
+                                                        <Value><![CDATA[true]]></Value>
+                                                    </Property>
+                                                </Properties>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>EditField</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Browser</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Page</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.EditField</Type>
+                                                            <Name><![CDATA[mothersName]]></Name>
+                                                            <IconKey>EditField</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[mothersName.setValue]]></Name>
+                                    <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>dxc cadastroMassa</td></tr></table>]]></Description>
+                                    <StartTime>2020-01-21 17:46:48</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:00.117]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.Page</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.EditField</Type>
+                                                        <Name><![CDATA[mothersName]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>setValue</Operation>
+                                                <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>dxc cadastroMassa</td></tr></table>]]></OperationData>
+                                                <Properties>
+                                                    <Property>
+                                                        <Name><![CDATA[id]]></Name>
+                                                        <Value><![CDATA[mothersname]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[isVisible]]></Name>
+                                                        <Value><![CDATA[true]]></Value>
+                                                    </Property>
+                                                </Properties>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>EditField</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Browser</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Page</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.EditField</Type>
+                                                            <Name><![CDATA[mothersName]]></Name>
+                                                            <IconKey>EditField</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[telephoneNumber.click]]></Name>
+                                    <Description/>
+                                    <StartTime>2020-01-21 17:46:49</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:00.115]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.Page</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.EditField</Type>
+                                                        <Name><![CDATA[telephoneNumber]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>click</Operation>
+                                                <OperationData/>
+                                                <Properties>
+                                                    <Property>
+                                                        <Name><![CDATA[id]]></Name>
+                                                        <Value><![CDATA[contactphone]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[isVisible]]></Name>
+                                                        <Value><![CDATA[true]]></Value>
+                                                    </Property>
+                                                </Properties>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>EditField</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Browser</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Page</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.EditField</Type>
+                                                            <Name><![CDATA[telephoneNumber]]></Name>
+                                                            <IconKey>EditField</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[telephoneNumber.setValue]]></Name>
+                                    <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>11996968527</td></tr></table>]]></Description>
+                                    <StartTime>2020-01-21 17:46:49</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:00.134]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.Page</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.EditField</Type>
+                                                        <Name><![CDATA[telephoneNumber]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>setValue</Operation>
+                                                <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>11996968527</td></tr></table>]]></OperationData>
+                                                <Properties>
+                                                    <Property>
+                                                        <Name><![CDATA[id]]></Name>
+                                                        <Value><![CDATA[contactphone]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[isVisible]]></Name>
+                                                        <Value><![CDATA[true]]></Value>
+                                                    </Property>
+                                                </Properties>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>EditField</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Browser</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Page</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.EditField</Type>
+                                                            <Name><![CDATA[telephoneNumber]]></Name>
+                                                            <IconKey>EditField</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[Continuar.click]]></Name>
+                                    <Description/>
+                                    <StartTime>2020-01-21 17:46:53</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:00.030]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.Page</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.WebElement</Type>
+                                                        <Name><![CDATA[Continuar]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>click</Operation>
+                                                <OperationData/>
+                                                <Properties>
+                                                    <Property>
+                                                        <Name><![CDATA[cSSSelector]]></Name>
+                                                        <Value><![CDATA[button#continuesignupform]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[isVisible]]></Name>
+                                                        <Value><![CDATA[true]]></Value>
+                                                    </Property>
+                                                </Properties>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>WebElement</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Browser</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Page</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.WebElement</Type>
+                                                            <Name><![CDATA[Continuar]]></Name>
+                                                            <IconKey>WebElement</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
                         </ReportNode>
                         <ReportNode type="CucumberStep">
                             <Data>
                                 <Name><![CDATA[<b>Entao </b>valido a tela cadastro com sucesso]]></Name>
                                 <Description/>
-                                <StartTime>2020-01-17 10:00:30</StartTime>
-                                <Result>Passed</Result>
+                                <StartTime>2020-01-21 17:46:53</StartTime>
+                                <Result>Failed</Result>
+                                <ErrorText><![CDATA[<pre>com.hp.lft.sdk.ReplayObjectNotFoundException: Cannot identify the object &quot;Web WebElement&quot;.
+Verify that this object&apos;s properties match an object currently displayed in your application.
+	at com.hp.lft.sdk.internal.ReplayExceptionFactory$1.create(ReplayExceptionFactory.java:35)
+	at com.hp.lft.sdk.internal.ReplayExceptionFactory.createOrDefault(ReplayExceptionFactory.java:289)
+	at com.hp.lft.sdk.internal.ReplayExceptionFactory.createOrDefault(ReplayExceptionFactory.java:22)
+	at com.hp.lft.sdk.internal.TestObjectExecuterBehaviorBase$ReplayErrorHandler.onError(TestObjectExecuterBehaviorBase.java:65)
+	at com.hp.lft.sdk.internal.CommunicationClientImpl.handleError(CommunicationClientImpl.java:222)
+	at com.hp.lft.sdk.internal.CommunicationClientImpl.send(CommunicationClientImpl.java:96)
+	at com.hp.lft.sdk.internal.TestObjectExecuterBehavior.executeMethod(TestObjectExecuter.java:44)
+	at com.hp.lft.sdk.internal.TestObjectBase.executeMethod(TestObjectBase.java:128)
+	at com.hp.lft.sdk.internal.TestObjectBase.getRealObjectProperty(TestObjectBase.java:133)
+	at com.hp.lft.sdk.internal.web.WebBaseTestObject.access$900(WebBaseTestObject.java:15)
+	at com.hp.lft.sdk.internal.web.WebBaseTestObject$10.invoke(WebBaseTestObject.java:129)
+	at com.hp.lft.sdk.internal.web.WebBaseTestObject$10.invoke(WebBaseTestObject.java:126)
+	at com.hp.lft.sdk.internal.TestObjectOperationWrapper.executeWithEvents(TestObjectOperationWrapper.java:120)
+	at com.hp.lft.sdk.internal.web.WebBaseTestObject.isVisible(WebBaseTestObject.java:132)
+	at com.hp.lft.sdk.internal.web.WebElementImpl.isVisible(WebElementImpl.java:7)
+	at com.hp.lft.sdk.internal.TestObjectBase$11.evaluate(TestObjectBase.java:380)
+	at com.hp.lft.sdk.WaitUntilTestObjectState$CallableEvaluator.call(WaitUntilTestObjectState.java:104)
+	at com.hp.lft.sdk.WaitUntilTestObjectState$CallableEvaluator.call(WaitUntilTestObjectState.java:86)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+</pre>]]></ErrorText>
                                 <Links/>
-                                <Duration><![CDATA[00:00:00.000]]></Duration>
+                                <Duration><![CDATA[00:00:27.872]]></Duration>
                                 <Extension>
                                     <Any>
                                         <IsHtmlErrorText>true</IsHtmlErrorText>
                                     </Any>
                                 </Extension>
                             </Data>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[WebElement.isVisible]]></Name>
+                                    <Description/>
+                                    <StartTime>2020-01-21 17:46:53</StartTime>
+                                    <Result>Failed</Result>
+                                    <ErrorText><![CDATA[<b>Operation 'WebElement.isVisible' failed:</b><BR/><pre>com.hp.lft.sdk.ReplayObjectNotFoundException: Cannot identify the object &quot;Web WebElement&quot;.
+Verify that this object&apos;s properties match an object currently displayed in your application.
+	at com.hp.lft.sdk.internal.ReplayExceptionFactory$1.create(ReplayExceptionFactory.java:35)
+	at com.hp.lft.sdk.internal.ReplayExceptionFactory.createOrDefault(ReplayExceptionFactory.java:289)
+	at com.hp.lft.sdk.internal.ReplayExceptionFactory.createOrDefault(ReplayExceptionFactory.java:22)
+	at com.hp.lft.sdk.internal.TestObjectExecuterBehaviorBase$ReplayErrorHandler.onError(TestObjectExecuterBehaviorBase.java:65)
+	at com.hp.lft.sdk.internal.CommunicationClientImpl.handleError(CommunicationClientImpl.java:222)
+	at com.hp.lft.sdk.internal.CommunicationClientImpl.send(CommunicationClientImpl.java:96)
+	at com.hp.lft.sdk.internal.TestObjectExecuterBehavior.executeMethod(TestObjectExecuter.java:44)
+	at com.hp.lft.sdk.internal.TestObjectBase.executeMethod(TestObjectBase.java:128)
+	at com.hp.lft.sdk.internal.TestObjectBase.getRealObjectProperty(TestObjectBase.java:133)
+	at com.hp.lft.sdk.internal.web.WebBaseTestObject.access$900(WebBaseTestObject.java:15)
+	at com.hp.lft.sdk.internal.web.WebBaseTestObject$10.invoke(WebBaseTestObject.java:129)
+	at com.hp.lft.sdk.internal.web.WebBaseTestObject$10.invoke(WebBaseTestObject.java:126)
+	at com.hp.lft.sdk.internal.TestObjectOperationWrapper.executeWithEvents(TestObjectOperationWrapper.java:120)
+	at com.hp.lft.sdk.internal.web.WebBaseTestObject.isVisible(WebBaseTestObject.java:132)
+	at com.hp.lft.sdk.internal.web.WebElementImpl.isVisible(WebElementImpl.java:7)
+	at com.hp.lft.sdk.internal.TestObjectBase$11.evaluate(TestObjectBase.java:380)
+	at com.hp.lft.sdk.WaitUntilTestObjectState$CallableEvaluator.call(WaitUntilTestObjectState.java:104)
+	at com.hp.lft.sdk.WaitUntilTestObjectState$CallableEvaluator.call(WaitUntilTestObjectState.java:86)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+</pre>]]></ErrorText>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:20.369]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.Page</Type>
+                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.WebElement</Type>
+                                                        <Name><![CDATA[WebElement]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>isVisible</Operation>
+                                                <OperationData/>
+                                                <Properties>
+                                                    <Property>
+                                                        <Name><![CDATA[innerText]]></Name>
+                                                        <Value><![CDATA[https://hml-lojaonline.vivo.com.br/vivostorefront/?site=vivo]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[isVisible]]></Name>
+                                                        <Value><![CDATA[true]]></Value>
+                                                    </Property>
+                                                </Properties>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>WebElement</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Browser</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                            <IconKey>Page</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.WebElement</Type>
+                                                            <Name><![CDATA[WebElement]]></Name>
+                                                            <IconKey>WebElement</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
                         </ReportNode>
                         <ReportNode type="Step">
                             <Data>
-                                <Name><![CDATA[Login | Loja de Aparelhos e Planos.close]]></Name>
+                                <Name><![CDATA[Loja de Aparelhos e Planos | Celular, internet, 4G, TV e Muito Mais!.close]]></Name>
                                 <Description/>
-                                <StartTime>2020-01-17 10:00:30</StartTime>
+                                <StartTime>2020-01-21 17:47:21</StartTime>
                                 <Result>Passed</Result>
                                 <Links/>
-                                <Duration><![CDATA[00:00:02.050]]></Duration>
+                                <Duration><![CDATA[00:00:00.533]]></Duration>
                                 <Extension>
                                     <Any>
                                         <TestObject>
                                             <Path>
                                                 <Object>
                                                     <Type>Web.Browser</Type>
-                                                    <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                    <Name><![CDATA[Loja de Aparelhos e Planos | Celular, internet, 4G, TV e Muito Mais!]]></Name>
                                                 </Object>
                                             </Path>
                                             <Operation>close</Operation>
@@ -572,7 +1958,7 @@
                                                 <Path>
                                                     <Object>
                                                         <Type>Web.Browser</Type>
-                                                        <Name><![CDATA[Login | Loja de Aparelhos e Planos]]></Name>
+                                                        <Name><![CDATA[Loja de Aparelhos e Planos | Celular, internet, 4G, TV e Muito Mais!]]></Name>
                                                         <IconKey>Browser</IconKey>
                                                     </Object>
                                                 </Path>
